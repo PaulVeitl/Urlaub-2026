@@ -3,10 +3,19 @@ Hallo Ziege, hier findest du Ideen zur Urlaubsplanung 2026
 
 ## Alle Infos zu Sri Lanka findest du hier
 
+### Claude
 1. [Grundlagen: Wetter, Transport & Vergleich](Sri%20Lanka/00_Grundlagen_Wetter_Transport_Vergleich.md)
 2. [Variante A: Natur & Wandern](Sri%20Lanka/01_Natur_und_Wandern.md)
 3. [Variante B: Meer & Entspannung](Sri%20Lanka/02_Meer_und_Entspannung.md)
 4. [Variante C: Große Rundreise](Sri%20Lanka/03_Grosse_Rundreise.md)
+
+### Ziege
+Mögliche Direktflüge Frankfurt am Main - Colombo
+![alt text](<Sri Lanka/Bilder/Screenshot Flüge Sri Lanka.png>)
+
+Hier noch ein sehr spannender Blog, was uns dort erwartet:
+https://betterbeyond.de/sri-lanka/
+
 
 ## Alle Infos zu Costa Rica findest du hier
 
